@@ -38,6 +38,10 @@
     margin-top: -5%;
   }
 
+  .blog_section .detail-box {
+    margin-right: 5%;
+  }
+
 }
 
 @media (max-width: 768px) {
